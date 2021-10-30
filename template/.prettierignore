@@ -1,0 +1,8 @@
+/.vs/
+/.vscode/
+/android/
+/fastlane/README.md
+/ios/
+/node_modules/
+/package.json
+/storybook/storybook-registry.js
